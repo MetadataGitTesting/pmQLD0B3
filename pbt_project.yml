@@ -1,0 +1,49 @@
+name: rodolfo.spinka
+description: Integrated
+version: 0.0.1
+author: vyligxeo.fcnqigna@e28eh1lt.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: rodolfospinka
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 20:28:58'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 20:28:58'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T20:28:58.93463Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '442620987'
+  createdAt: '2024-12-08T20:28:58.93463Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
